@@ -9,5 +9,6 @@ Hello
 - Blog : (*not yet*)
 - Contact : (*not yet*)
 <!-- - PlayList : [![YouTube Video Views](https://img.shields.io/youtube/views/bFfAVaUtPHI?style=social)](https://www.youtube.com/watch?v=bFfAVaUtPHI&list=PLsv4T4YK_QiHY_ooWo1R4ZYIQ_lMukmrL&index=27) -->
+<!-- - Project :  -->
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2taezeat&show_icons=true&theme=dark) -->
