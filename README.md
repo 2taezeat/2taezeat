@@ -8,6 +8,6 @@ Hello
 - Stack : <img src="https://img.shields.io/badge/Android-00000?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin"/>
 - Blog : (*not yet*)
 - Contact : (*not yet*)
-- PlayList : [![YouTube Video Views](https://img.shields.io/youtube/views/bFfAVaUtPHI?style=social)](https://www.youtube.com/watch?v=bFfAVaUtPHI&list=PLsv4T4YK_QiHY_ooWo1R4ZYIQ_lMukmrL&index=27)
+<!-- - PlayList : [![YouTube Video Views](https://img.shields.io/youtube/views/bFfAVaUtPHI?style=social)](https://www.youtube.com/watch?v=bFfAVaUtPHI&list=PLsv4T4YK_QiHY_ooWo1R4ZYIQ_lMukmrL&index=27) -->
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2taezeat&show_icons=true&theme=dark) -->
