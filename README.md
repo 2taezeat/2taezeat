@@ -11,7 +11,7 @@ Kotlin, Android
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/2tae)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
 
 <!--
 **2taezeat/2taezeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
