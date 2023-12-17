@@ -4,14 +4,12 @@ Hello ~
 
 ---
 - Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
-- Contact : `xorudfl772@naver.com`
 - Stack : <img src="https://img.shields.io/badge/Android-00000?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin"/>
-
 
 <!-- - Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
 <!-- - Stack : <img src="https://img.shields.io/badge/Android-00000?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin"/>
 <!-- - Blog : (*not yet*)
-<!-- - Contact : (*not yet*)
+<!-- - Contact : `xorudfl772@naver.com`
 <!-- - PlayList : [![YouTube Video Views](https://img.shields.io/youtube/views/bFfAVaUtPHI?style=social)](https://www.youtube.com/watch?v=bFfAVaUtPHI&list=PLsv4T4YK_QiHY_ooWo1R4ZYIQ_lMukmrL&index=27) -->
 <!-- - Project :  -->
 ---
