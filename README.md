@@ -1,10 +1,17 @@
-Hello ~
+------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2taezeat&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
+- Project
+  - Boostcamp2023 Android, 📼 Catchy Tape App: https://github.com/boostcampwm2023/and04-catchy-tape
 
----
-- Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
-- Stack : <img src="https://img.shields.io/badge/Android-00000?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin"/>
+- Contribute
+  - Android Docs fatal Korean translation Error Report: https://issuetracker.google.com/issues/323686074
+
+- Education
+  - Bachelor's degree: Korea University, Computer Science and Engineering
+
+- Problem Solving: [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
+
+- Interests: <img src="https://img.shields.io/badge/Android-00000?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin"/>
 
 <!-- - Problem Solving : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
 <!-- - Stack : <img src="https://img.shields.io/badge/Android-00000?style=flat-square&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin"/>
@@ -14,3 +21,4 @@ Hello ~
 <!-- - Project :  -->
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2taezeat&show_icons=true&theme=dark) -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2taezeat&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
