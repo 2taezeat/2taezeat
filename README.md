@@ -4,10 +4,10 @@
   - Boostcamp2023 Android, 📼 Catchy Tape App: https://github.com/boostcampwm2023/and04-catchy-tape
 
 - Contribute
-  - Android Docs fatal Korean translation Error Report: https://issuetracker.google.com/issues/323686074
+  - Android docs fatal translation(KR) error report: https://issuetracker.google.com/issues/323686074
 
 - Education
-  - Bachelor's degree: Korea University, Computer Science and Engineering
+  - Bachelor's degree: Computer Science and Engineering, Korea University
 
 - Problem Solving: [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=2tae)](https://solved.ac/2tae)
 
