@@ -1,3 +1,5 @@
+hello
+<!--
 ------
 - Project
   - Boostcamp2023 Android, 📼 Catchy Tape App: https://github.com/boostcampwm2023/and04-catchy-tape
@@ -11,6 +13,7 @@
 
 - Blog : [2taezeat.github.io](https://2taezeat.github.io/)
 ------
+-->
 
 <!--- Contribute
   - Android docs fatal translation(KR) error report: https://issuetracker.google.com/issues/323686074 -->
